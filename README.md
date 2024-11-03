@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @natanszyslak
+- 👀 I’m interested in automation and data analysis
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on projects related to automation and data insights
+- 📫 How to reach me: ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I’m always on the lookout for new ways to automate everyday tasks!
